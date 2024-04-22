@@ -8,7 +8,7 @@
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/Egiftcard/egiftcard-v2-sdk.git",
+  "repository": "https://github.com/egiftcard/egiftcard-v2-sdk.git",
   "keywords": [
     "egiftcard",
     "ethereum"
